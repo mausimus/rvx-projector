@@ -6,6 +6,8 @@ Add-on for Blender for projection-mapping 2D art retaining pixel-art look.
 
 The technique behind RVX Projector has been used to make Scumm Bar 3D demos, which recreate a scene from The Secret of Monkey Island in a 3D engine.
 
+#### Explanation video
+
 [![Explanation video](https://img.youtube.com/vi/wNi1KE8G3I0/hqdefault.jpg)](https://www.youtube.com/embed/wNi1KE8G3I0)
 
 ## Usage
